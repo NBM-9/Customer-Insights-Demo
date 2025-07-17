@@ -1,0 +1,5 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,InternetService,Contract,Churn
+001,Female,0,Yes,No,1,No,DSL,Month-to-month,Yes
+002,Male,1,No,No,34,Yes,Fiber optic,Two year,No
+003,Female,0,No,Yes,2,Yes,DSL,Month-to-month,Yes
+004,Male,1,Yes,Yes,45,Yes,No,One year,No
